@@ -1,3 +1,4 @@
+<?php require_once '../bdd/connexion.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 
